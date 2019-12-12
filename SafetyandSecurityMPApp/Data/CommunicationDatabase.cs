@@ -26,7 +26,7 @@ namespace SafetyandSecurityMPApp.Data
 
         public Task<List<UserProfile>> GetItemsNotDoneAsync()
         {
-            return database.QueryAsync<UserProfile>("SELECT * FROM [ChatDataBase] WHERE [Done] = 0");
+            return database.QueryAsync<UserProfile>("SELECT * FROM [FakeCarsDatabase] WHERE [Done] = 0");
         }
 
         public Task<UserProfile> GetItemAsync(int id)

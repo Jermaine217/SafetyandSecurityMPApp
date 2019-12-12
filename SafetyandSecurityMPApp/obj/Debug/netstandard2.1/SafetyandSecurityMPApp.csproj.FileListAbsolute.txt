@@ -1,7 +1,5 @@
 D:\Projects\SafetyandSecurityMPApp\SafetyandSecurityMPApp\obj\Debug\netstandard2.1\App.xaml.g.cs
-D:\Projects\SafetyandSecurityMPApp\SafetyandSecurityMPApp\obj\Debug\netstandard2.1\LoginPage\LoginPage.xaml.g.cs
 D:\Projects\SafetyandSecurityMPApp\SafetyandSecurityMPApp\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
-D:\Projects\SafetyandSecurityMPApp\SafetyandSecurityMPApp\obj\Debug\netstandard2.1\RegistrationPage\RegistrationPage.xaml.g.cs
 D:\Projects\SafetyandSecurityMPApp\SafetyandSecurityMPApp\obj\Debug\netstandard2.1\WelcomePage\WelcomePage.xaml.g.cs
 D:\Projects\SafetyandSecurityMPApp\SafetyandSecurityMPApp\obj\Debug\netstandard2.1\SafetyandSecurityMPApp.AssemblyInfoInputs.cache
 D:\Projects\SafetyandSecurityMPApp\SafetyandSecurityMPApp\obj\Debug\netstandard2.1\SafetyandSecurityMPApp.AssemblyInfo.cs
@@ -9,8 +7,11 @@ D:\Projects\SafetyandSecurityMPApp\SafetyandSecurityMPApp\bin\Debug\netstandard2
 D:\Projects\SafetyandSecurityMPApp\SafetyandSecurityMPApp\bin\Debug\netstandard2.1\SafetyandSecurityMPApp.dll
 D:\Projects\SafetyandSecurityMPApp\SafetyandSecurityMPApp\bin\Debug\netstandard2.1\ref\SafetyandSecurityMPApp.dll
 D:\Projects\SafetyandSecurityMPApp\SafetyandSecurityMPApp\bin\Debug\netstandard2.1\SafetyandSecurityMPApp.pdb
-D:\Projects\SafetyandSecurityMPApp\SafetyandSecurityMPApp\obj\Debug\netstandard2.1\XamlC.stamp
 D:\Projects\SafetyandSecurityMPApp\SafetyandSecurityMPApp\obj\Debug\netstandard2.1\SafetyandSecurityMPApp.dll
 D:\Projects\SafetyandSecurityMPApp\SafetyandSecurityMPApp\obj\Debug\netstandard2.1\ref\SafetyandSecurityMPApp.dll
 D:\Projects\SafetyandSecurityMPApp\SafetyandSecurityMPApp\obj\Debug\netstandard2.1\SafetyandSecurityMPApp.pdb
 D:\Projects\SafetyandSecurityMPApp\SafetyandSecurityMPApp\obj\Debug\netstandard2.1\PanicButton\EmergencyButton.xaml.g.cs
+D:\Projects\SafetyandSecurityMPApp\SafetyandSecurityMPApp\obj\Debug\netstandard2.1\SafetyandSecurityMPApp.csprojAssemblyReference.cache
+D:\Projects\SafetyandSecurityMPApp\SafetyandSecurityMPApp\obj\Debug\netstandard2.1\XamlC.stamp
+D:\Projects\SafetyandSecurityMPApp\SafetyandSecurityMPApp\obj\Debug\netstandard2.1\LoginPage\Login.xaml.g.cs
+D:\Projects\SafetyandSecurityMPApp\SafetyandSecurityMPApp\obj\Debug\netstandard2.1\RegistrationPage\Register.xaml.g.cs
