@@ -9,8 +9,13 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 namespace SafetyandSecurityMPApp.LoginPage
+
 {
+    [XamlCompilation(XamlCompilationOptions.Compile)]
+  
     public class LoginViewModel : INotifyPropertyChanged
+
+
     {
         public Action DisplayInvalidLoginPrompt;
         public event PropertyChangedEventHandler PropertyChanged = delegate { };

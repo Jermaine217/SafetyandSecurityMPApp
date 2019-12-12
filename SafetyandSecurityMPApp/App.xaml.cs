@@ -1,5 +1,4 @@
-﻿using SafetyandSecurityMPApp.PanicButton;
-using System;
+﻿
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -12,8 +11,8 @@ namespace SafetyandSecurityMPApp
         {
             InitializeComponent();
 
-
-            MainPage = new EmergencyButton();
+            MainPage = new NavigationPage(new MainPage());
+            
         }
 
         protected override void OnStart()

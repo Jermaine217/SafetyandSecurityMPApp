@@ -4,7 +4,9 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="SafetyandSecurityMPApp.Register">
+             x:Class="SafetyandSecurityMPApp.Register"
+             BackgroundImageSource="BackgroundScreen5.jpg">
+    
 
     <ContentPage.Content>
 
@@ -30,29 +32,12 @@
                            IsPassword="True"  
                            TextColor="Black"/>
 
-                    <Entry x:Name="CellNumber" Text="{Binding CellNumber}" Placeholder="CellNumber"   
-                           PlaceholderColor="Black" HeightRequest="45"   
-                           IsPassword="True"  
-                           TextColor="Black"/>
-
-                    <Entry x:Name="EemergencyNumber" Text="{Binding EemergencyNumber}" Placeholder="EemergencyNumber"   
-                           PlaceholderColor="Black" HeightRequest="45"   
-                           Keyboard="Email"  
-                           TextColor="Black"/>
-
-                    <Entry x:Name="EemergencyContactName" Text="{Binding EemergencyContactName}" Placeholder="EemergencyContactName"   
-                           PlaceholderColor="Black" HeightRequest="45"   
-                           Keyboard="Email"  
-                           TextColor="Black"/>
-
-
-
                 </StackLayout>
             </Frame>
 
-            <Button Command="{Binding SubmitCommand}" Text="Login" TextColor="White"  
+            <Button Command="{Binding SubmitCommand}" Clicked="Button_Clicked" Text="Register" TextColor="Black"  
                     FontAttributes="Bold" FontSize="Large" HorizontalOptions="FillAndExpand"  
-                    BackgroundColor="Transparent" />
+                    BackgroundColor="Orange" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

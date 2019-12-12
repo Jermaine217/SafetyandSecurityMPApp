@@ -5755,11 +5755,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp.csproj",
+      "projectUniqueName": "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp.csproj",
       "projectName": "SafetyandSecurityMPApp",
-      "projectPath": "D:\\Projects\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp.csproj",
+      "projectPath": "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp.csproj",
       "packagesPath": "C:\\Users\\stude\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp\\obj\\",
+      "outputPath": "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -10,21 +10,18 @@ namespace CarsAPI.Controllers
     [Route("api/[controller]")]
     [ApiController]
     public class StolenCarsController : ControllerBase
-   
+
     {
-        private FakeCarsDatabase _fakeDatabase;
-      
-     
+        public FakeCarsDatabase _fakeDatabase;
+
+
         public StolenCarsController()
         {
+
             _fakeDatabase = new FakeCarsDatabase();
+
+
+
         }
-        
-
-
-       
-
-
-
     }
 }

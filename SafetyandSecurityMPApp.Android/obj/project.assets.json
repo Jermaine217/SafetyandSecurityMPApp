@@ -3111,11 +3111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp.Android\\SafetyandSecurityMPApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp.Android\\SafetyandSecurityMPApp.Android.csproj",
       "projectName": "SafetyandSecurityMPApp.Android",
-      "projectPath": "D:\\Projects\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp.Android\\SafetyandSecurityMPApp.Android.csproj",
+      "projectPath": "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp.Android\\SafetyandSecurityMPApp.Android.csproj",
       "packagesPath": "C:\\Users\\stude\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp.Android\\obj\\",
+      "outputPath": "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3136,8 +3136,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\Projects\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp.csproj": {
-              "projectPath": "D:\\Projects\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp.csproj"
+            "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp.csproj": {
+              "projectPath": "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp.csproj"
             }
           }
         }

@@ -4,7 +4,8 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="SafetyandSecurityMPApp.LoginPage.Login">
+             x:Class="SafetyandSecurityMPApp.LoginPage.Login"
+             BackgroundImageSource="BackgroundScreen5.jpg">
     
     
     <ContentPage.Content>
@@ -22,7 +23,7 @@
                            TextColor="Black"/>
 
                     <Entry x:Name="Password" Text="{Binding Password}" Placeholder="Password"   
-                           PlaceholderColor="White" HeightRequest="45"   
+                           PlaceholderColor="Black" HeightRequest="45"   
                            IsPassword="True"  
                            TextColor="Black"/>
 
@@ -31,7 +32,9 @@
 
             <Button Command="{Binding SubmitCommand}" Text="Login" TextColor="Black"  
                     FontAttributes="Bold" FontSize="Large" HorizontalOptions="FillAndExpand"  
-                    BackgroundColor="Transparent" />
+                    BackgroundColor="Orange" />
+                   <Image Source="CheckCar.jpg" />
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

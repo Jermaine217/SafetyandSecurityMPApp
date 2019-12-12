@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -6,14 +7,37 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
 using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
 
 namespace SafetyandSecurityMPApp
 {
+    [XamlCompilation(XamlCompilationOptions.Compile)]
+
+    public partial class Register : ContentPage 
+    {
+        public Register()
+        {
+            InitializeComponent();
+        }
+
+
+        private void OnButtonClicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Wel());
+        }
+    }
+}
+ 
+    
     public class LoginViewModel : INotifyPropertyChanged
     {
+        
+
         public Action DisplayInvalidLoginPrompt;
         public event PropertyChangedEventHandler PropertyChanged = delegate { };
         private string email;
+
+       
         public string Email
         {
             get { return email; }
@@ -39,6 +63,13 @@ namespace SafetyandSecurityMPApp
         {
             SubmitCommand = new Command(OnSubmit);
         }
+    void OnButtonClicked(object sender, EventArgs e)
+    {
+        (sender as Button).Text = "Register";
+
+    }
+
+    
 
         public void OnSubmit()
         {
@@ -48,4 +79,3 @@ namespace SafetyandSecurityMPApp
             }
         }
     }
-}

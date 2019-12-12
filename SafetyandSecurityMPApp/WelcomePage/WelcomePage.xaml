@@ -16,9 +16,9 @@
     <ContentPage.Content>
         <StackLayout>
 
-            <Image Source="D:\Projects\SafetyandSecurityMPApp\SafetyandSecurityMPApp.Android\Resources\drawable\Maps\unnamed.png"/>
+            <Image Source="CheckontheGo.png"/>
             
-            <Label Text="Keep Your Fmaily Safe Today" HorizontalOptions="Center" TextColor="Brown" FontSize="21"/>
+            <Label Text="Info On the Go" HorizontalOptions="Center" TextColor="Brown" FontSize="21"/>
             
             <Label>
                 
@@ -27,17 +27,17 @@
              TextColor="Teal"
              BorderColor="Black"
              Clicked="OnButtonClicked"
-             HorizontalOptions="Center"
-             VerticalOptions="Center"/>
+             HorizontalOptions="CenterAndExpand"
+             VerticalOptions="CenterAndExpand"/>
 
             <Button Text="Login"   
              TextColor="Teal"
              BorderColor="Black"
              Clicked="OnButtonClicked"
-             HorizontalOptions="Center"
-             VerticalOptions="Center"/>
+             HorizontalOptions="CenterAndExpand"
+             VerticalOptions="CenterAndExpand"/>
 
-
+            <Image Source="Checksonthego1.png" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
