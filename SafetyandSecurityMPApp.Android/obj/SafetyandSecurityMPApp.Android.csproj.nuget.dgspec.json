@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp.Android\\SafetyandSecurityMPApp.Android.csproj": {}
+    "D:\\Projects\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp.Android\\SafetyandSecurityMPApp.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp.Android\\SafetyandSecurityMPApp.Android.csproj": {
+    "D:\\Projects\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp.Android\\SafetyandSecurityMPApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp.Android\\SafetyandSecurityMPApp.Android.csproj",
+        "projectUniqueName": "D:\\Projects\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp.Android\\SafetyandSecurityMPApp.Android.csproj",
         "projectName": "SafetyandSecurityMPApp.Android",
-        "projectPath": "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp.Android\\SafetyandSecurityMPApp.Android.csproj",
+        "projectPath": "D:\\Projects\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp.Android\\SafetyandSecurityMPApp.Android.csproj",
         "packagesPath": "C:\\Users\\stude\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp.Android\\obj\\",
+        "outputPath": "D:\\Projects\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp.csproj": {
-                "projectPath": "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp.csproj"
+              "D:\\Projects\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp.csproj": {
+                "projectPath": "D:\\Projects\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp.csproj": {
+    "D:\\Projects\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp.csproj",
+        "projectUniqueName": "D:\\Projects\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp.csproj",
         "projectName": "SafetyandSecurityMPApp",
-        "projectPath": "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp.csproj",
+        "projectPath": "D:\\Projects\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp\\SafetyandSecurityMPApp.csproj",
         "packagesPath": "C:\\Users\\stude\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp\\obj\\",
+        "outputPath": "D:\\Projects\\SafetyandSecurityMPAppOLD\\SafetyandSecurityMPApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\StolenCarsAPI\\StolenCarsAPI.csproj": {}
+    "D:\\Projects\\SafetyandSecurityMPAppOLD\\StolenCarsAPI\\StolenCarsAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\StolenCarsAPI\\StolenCarsAPI.csproj": {
+    "D:\\Projects\\SafetyandSecurityMPAppOLD\\StolenCarsAPI\\StolenCarsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\StolenCarsAPI\\StolenCarsAPI.csproj",
+        "projectUniqueName": "D:\\Projects\\SafetyandSecurityMPAppOLD\\StolenCarsAPI\\StolenCarsAPI.csproj",
         "projectName": "StolenCarsAPI",
-        "projectPath": "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\StolenCarsAPI\\StolenCarsAPI.csproj",
+        "projectPath": "D:\\Projects\\SafetyandSecurityMPAppOLD\\StolenCarsAPI\\StolenCarsAPI.csproj",
         "packagesPath": "C:\\Users\\stude\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stude\\Desktop\\SafetyandSecurityMPAppOLD\\StolenCarsAPI\\obj\\",
+        "outputPath": "D:\\Projects\\SafetyandSecurityMPAppOLD\\StolenCarsAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
